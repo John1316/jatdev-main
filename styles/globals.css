@@ -1,0 +1,113 @@
+* {
+  font-family: "Manrope";
+}
+
+section {
+  padding: 60px 0;
+}
+
+hr {
+  margin: 20px 0 !important;
+}
+
+.nextui-navbar-container {
+  background-color: #09121F !important;
+  box-shadow: none !important;
+  color: #fff !important;
+}
+
+.cover {
+  background-color: #09121F;
+}
+.cover__caption--paragraph {
+  color: #fff;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: -0.02em;
+}
+.cover__caption--h3 {
+  color: #fff;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 72px;
+}
+
+.values__header {
+  text-align: center;
+}
+.values__card {
+  background-color: #09121F !important;
+}
+.values__card--body {
+  padding-top: 14px !important;
+}
+.values__card--body p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* or 150% */
+  /* Color/100 */
+  color: #D4D6D9;
+}
+.values__card--header {
+  padding-bottom: 0 !important;
+}
+.values__card--header h4 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+  /* identical to box height, or 133% */
+  padding-left: 14px;
+  /* Color/White */
+  color: #FFFFFF;
+}
+
+.partnership__caption--paragraph {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #64607D;
+}
+.partnership__caption--h4 {
+  font-weight: 800;
+  font-size: 34px;
+  line-height: 46px;
+  color: #000000;
+}
+.partnership__input {
+  background: #F2F2F2 !important;
+  border-radius: 50px !important;
+}
+.partnership__input--button {
+  background: #9E0B0F !important;
+  box-shadow: 0px 6px 12px -6px rgba(255, 255, 255, 0.25), 0px 8px 24px -4px rgba(255, 255, 255, 0.15);
+  border-radius: 50px !important;
+}
+
+.blogs__content--blog-image {
+  width: 100% !important;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  border-radius: 22px;
+  height: 100%;
+}
+.blogs__content--blog-header {
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 26px;
+  /* or 180% */
+  margin-bottom: 10px;
+  letter-spacing: -0.03em;
+  color: #000000;
+}
+.blogs__content--blog-paragraph {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 25px;
+  /* or 188% */
+  letter-spacing: -0.02em;
+  color: #64607D;
+}/*# sourceMappingURL=globals.css.map */
